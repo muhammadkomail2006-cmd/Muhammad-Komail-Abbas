@@ -1,0 +1,6 @@
+{
+  "name": "CV Maker",
+  "description": "Create professional CVs with customizable templates, AI summary optimization, and download them as high-quality PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
